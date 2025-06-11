@@ -1,0 +1,2 @@
+5276d89 (HEAD -> main, origin/main, origin/HEAD) Добавил status.txt
+3484def Create README.md
